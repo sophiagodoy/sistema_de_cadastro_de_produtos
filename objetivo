@@ -1,0 +1,5 @@
+O objetivo deste sistema de cadastro de produtos é facilitar o gerenciamento e a organização de informações sobre produtos em um banco de dados Oracle. 
+Através de uma interface interativa, os usuários podem cadastrar, alterar, listar e deletar produtos, garantindo que todas as informações relevantes, como nome, descrição, custo e rentabilidade, estejam sempre atualizadas.
+
+Além disso, o sistema implementa uma lógica de criptografia para proteger as descrições dos produtos, garantindo a segurança dos dados. 
+Com funcionalidades como cálculo automático de preço de venda e análise de rentabilidade, o sistema visa otimizar a tomada de decisões comerciais e melhorar a eficiência na gestão de produtos.
